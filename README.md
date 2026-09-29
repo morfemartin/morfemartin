@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/hero.svg" alt="MORFE — Martin Alejandro Morfe Carballo, visual artist × computer engineer" width="600"/>
+  <img src="assets/hero.svg" alt="MORFE — Martin Alejandro Morfe Carballo, visual artist × computer engineer" width="460"/>
 </p>
 
 ## Hi, I'm Martin Alejandro Morfe Carballo
