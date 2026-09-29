@@ -1,20 +1,22 @@
 <p align="center">
-  <img src="assets/header.svg" alt="MORFE — Martin Morfe, visual artist × computer engineer" width="100%"/>
+  <img src="assets/header.svg" alt="MORFE — Martin Alejandro Morfe Carballo, visual artist × computer engineer" width="100%"/>
 </p>
 
-## Hi, I'm Martin Morfe
+## Hi, I'm Martin Alejandro Morfe Carballo
 
 ### A visual artist who writes code — and a computer engineer who paints.
 
 I paint traditionally — watercolor, acrylic, pencil — and I study **Computer Engineering at Universidad Valle del Momboy** (Venezuela). I live at the point where those two worlds meet: I design clothing brands with an artist's eye and build the software that takes them to production with an engineer's discipline.
 
-I work for **international clients** — the **United States**, the **United Kingdom** and **Singapore** — from [IAMWATCH](https://www.iamwatch.com) in Singapore to [Minerva Society Introductions](https://www.minervaintroductions.com) in London and memorial pieces delivered in New York — and fashion labels in **Hawaii** such as [Sunner.co](https://sunner.co).
+I work for **international clients** across the **United States**, **Canada**, the **United Kingdom** and **Singapore** — from [Hueston](https://hueston.co) and [HoliMont](https://www.holimont.com) in the US to [Minerva Society Introductions](https://www.minervaintroductions.com) in London and [IAMWATCH](https://www.iamwatch.com) in Singapore — plus fashion labels in **Hawaii** such as [Sunner.co](https://sunner.co).
 
 <p align="center">
-  <img src="assets/client-us.svg" alt="United States — New York" width="23%"/>
-  <a href="https://www.minervaintroductions.com"><img src="assets/client-uk.svg" alt="United Kingdom — Minerva Society Introductions" width="23%"/></a>
-  <a href="https://www.iamwatch.com"><img src="assets/client-sg.svg" alt="Singapore — IAMWATCH" width="23%"/></a>
-  <a href="https://sunner.co"><img src="assets/client-hi.svg" alt="Hawaii — Sunner.co" width="23%"/></a>
+  <a href="https://hueston.co"><img src="assets/client-us-hueston.svg" alt="United States — Hueston" width="32%"/></a>
+  <a href="https://www.holimont.com"><img src="assets/client-us-holimont.svg" alt="United States — HoliMont" width="32%"/></a>
+  <img src="assets/client-ca.svg" alt="Canada — private clients" width="32%"/>
+  <a href="https://www.minervaintroductions.com"><img src="assets/client-uk.svg" alt="United Kingdom — Minerva Society Introductions" width="32%"/></a>
+  <a href="https://www.iamwatch.com"><img src="assets/client-sg.svg" alt="Singapore — IAMWATCH" width="32%"/></a>
+  <a href="https://sunner.co"><img src="assets/client-hi.svg" alt="Hawaii — Sunner.co" width="32%"/></a>
 </p>
 
 ### What I'm doing now
@@ -84,7 +86,7 @@ I work for **international clients** — the **United States**, the **United Kin
 <br/>
 
 <p align="center">
-  <img src="assets/door.svg" alt="An arched door opens onto morfe.studio — coming soon" width="100%"/>
+  <img src="assets/door.svg" alt="The Morfe seal swings open like a door onto morfe.studio — coming soon" width="100%"/>
 </p>
 
 <p align="center">

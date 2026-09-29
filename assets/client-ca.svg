@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 280 110" width="280" height="110" role="img" aria-label="CANADA — PRIVATE CLIENTS">
+<style>.t{font-family:'JetBrains Mono','SFMono-Regular',Menlo,Consolas,monospace}
+.big{font-family:'Space Grotesk','Helvetica Neue',Arial,sans-serif;font-weight:700}
+.in{opacity:0;animation:in .6s ease-out 0.40s forwards}
+@keyframes in{from{opacity:0;transform:translateY(8px)}to{opacity:1;transform:none}}
+.arr{animation:nudge 1.8s ease-in-out infinite}@keyframes nudge{50%{transform:translateX(3px)}}
+</style>
+<g class="in"><rect x="1.5" y="1.5" width="277" height="107" fill="#E5352B"/>
+<text x="16" y="44" class="big" font-size="30" fill="#FFFFFF">CA</text>
+<text x="16" y="72" class="t" font-size="10" fill="#FFFFFF" fill-opacity=".75">CANADA</text>
+<text x="16" y="92" class="big" font-size="13" fill="#FFFFFF">PRIVATE CLIENTS</text>
+</g>
+</svg>
