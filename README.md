@@ -84,5 +84,5 @@ I work for **international clients** across the **United States**, **Canada**, t
 <br/>
 
 <p align="center">
-  <img src="assets/door-sign.svg" alt="A blue arched door with the Morfe seal engraved through it; light casts the letters on the floor, then the door opens onto morfe.studio — coming soon" width="320"/>
+  <img src="assets/door-name.svg" alt="A blue arched door with the Morfe seal engraved through it; light casts the letters on the floor, then the door opens onto morfe.studio — coming soon" width="320"/>
 </p>
