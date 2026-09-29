@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 200" width="860" height="200" role="img" aria-label="Martin Morfe — Morfe Studio">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 220" width="860" height="220" role="img" aria-label="Martin Morfe — Visual artist and computer engineer">
   <style>
     .t   { font-family: 'JetBrains Mono', 'SFMono-Regular', Menlo, Consolas, monospace; }
     .big { font-family: 'Space Grotesk', 'Helvetica Neue', Arial, sans-serif; font-weight: 700; }
@@ -8,15 +8,21 @@
     .spin { transform-box: fill-box; transform-origin: center; animation: spin 14s linear infinite; }
     @keyframes spin { to { transform: rotate(360deg); } }
   </style>
-  <rect width="860" height="200" fill="#141518"/>
-  <rect x="0" y="0" width="10" height="200" fill="#E5352B"/>
-  <text x="44" y="84"  class="big in d1" font-size="46" fill="#FFFFFF">MARTIN MORFE</text>
-  <rect x="44" y="104" width="250" height="28" fill="#1A3FB0" class="in d2"/>
-  <text x="56" y="123" class="t in d2" font-size="13" fill="#FFFFFF">FOUNDER · MORFE STUDIO</text>
-  <text x="44" y="164" class="t in d3" font-size="12" fill="#9aa0ab">branding · textile development · tech packs · web — Caracas, VE</text>
+  <rect width="860" height="220" fill="#141518"/>
+  <rect x="0" y="0" width="10" height="220" fill="#E5352B"/>
+  <text x="44" y="80"  class="big in d1" font-size="46" fill="#FFFFFF">MARTIN MORFE</text>
+  <g class="in d2">
+    <rect x="44"  y="100" width="148" height="28" fill="#E5352B"/>
+    <text x="56"  y="119" class="t" font-size="13" fill="#FFFFFF">VISUAL ARTIST</text>
+    <text x="202" y="119" class="t" font-size="15" fill="#F5C518">×</text>
+    <rect x="222" y="100" width="206" height="28" fill="#1A3FB0"/>
+    <text x="234" y="119" class="t" font-size="13" fill="#FFFFFF">COMPUTER ENGINEER</text>
+  </g>
+  <text x="44" y="160" class="t in d3" font-size="12" fill="#9aa0ab">founder · morfe studio — tech packs · clothing brands · web</text>
+  <text x="44" y="182" class="t in d3" font-size="12" fill="#6b6f7a">Caracas, VE → clients in US · UK · Singapore</text>
   <g class="in d4">
-    <circle cx="730" cy="100" r="58" fill="#1A3FB0"/>
-    <rect x="700" y="40" width="60" height="60" fill="#E5352B"/>
-    <g class="spin"><rect x="760" y="118" width="26" height="26" fill="#F5C518" stroke="#000" stroke-width="2"/></g>
+    <circle cx="730" cy="110" r="58" fill="#1A3FB0"/>
+    <rect x="700" y="50" width="60" height="60" fill="#E5352B"/>
+    <g class="spin"><rect x="760" y="128" width="26" height="26" fill="#F5C518" stroke="#000" stroke-width="2"/></g>
   </g>
 </svg>
