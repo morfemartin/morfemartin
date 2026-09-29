@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/header.svg" alt="Martin Morfe — Visual artist × Computer engineer" width="100%"/>
+  <img src="assets/header.svg" alt="MORFE — Martin Morfe, visual artist × computer engineer" width="100%"/>
 </p>
 
 ## Hi, I'm Martin Morfe
@@ -8,10 +8,13 @@
 
 I paint traditionally — watercolor, acrylic, pencil — and I study **Computer Engineering at Universidad Valle del Momboy** (Venezuela). I live at the point where those two worlds meet: I design clothing brands with an artist's eye and build the software that takes them to production with an engineer's discipline.
 
-I work for **international clients** — the **United States**, the **United Kingdom** and **Singapore** — from high-end events in Singapore to memorial pieces delivered in New York, and fashion labels in **Hawaii** such as **Sunner.co**.
+I work for **international clients** — the **United States**, the **United Kingdom** and **Singapore** — from [IAMWATCH](https://www.iamwatch.com) in Singapore to [Minerva Society Introductions](https://www.minervaintroductions.com) in London and memorial pieces delivered in New York — and fashion labels in **Hawaii** such as [Sunner.co](https://sunner.co).
 
 <p align="center">
-  <img src="assets/clients.svg" alt="International clients: US, UK, Singapore, Hawaii" width="100%"/>
+  <img src="assets/client-us.svg" alt="United States — New York" width="23%"/>
+  <a href="https://www.minervaintroductions.com"><img src="assets/client-uk.svg" alt="United Kingdom — Minerva Society Introductions" width="23%"/></a>
+  <a href="https://www.iamwatch.com"><img src="assets/client-sg.svg" alt="Singapore — IAMWATCH" width="23%"/></a>
+  <a href="https://sunner.co"><img src="assets/client-hi.svg" alt="Hawaii — Sunner.co" width="23%"/></a>
 </p>
 
 ### What I'm doing now
@@ -25,15 +28,9 @@ I work for **international clients** — the **United States**, the **United Kin
   <img src="assets/education.svg" alt="Computer Engineering — Universidad Valle del Momboy. Harvard CS50 in progress." width="100%"/>
 </p>
 
-<h3 align="center">Certifications</h3>
-
-| | Certification | Issuer |
-|:-:|---|---|
-| <img src="https://img.shields.io/badge/-%20-E5352B?style=flat-square" alt=""/> | **Graphic Design** | CalArts · Coursera |
-| <img src="https://img.shields.io/badge/-%20-1A3FB0?style=flat-square" alt=""/> | **Project Management** | Google · Coursera |
-| <img src="https://img.shields.io/badge/-%20-F5C518?style=flat-square" alt=""/> | **Claude & AI courses** | Anthropic |
-| <img src="https://img.shields.io/badge/-%20-141518?style=flat-square" alt=""/> | **Full Stack Development** | Oracle Next Education · Alura |
-| <img src="https://img.shields.io/badge/-%20-FFFFFF?style=flat-square" alt=""/> | **CS50** — *in progress* | Harvard University |
+<p align="center">
+  <img src="assets/certifications.svg" alt="Certifications — CalArts Graphic Design, Google Project Management, Anthropic, Oracle Next Education Full Stack, Harvard CS50 (in progress)" width="100%"/>
+</p>
 
 <h3 align="center">Languages</h3>
 <p align="center">
@@ -78,18 +75,18 @@ I work for **international clients** — the **United States**, the **United Kin
   <img src="https://img.shields.io/badge/NVIDIA%20NIM-1A3FB0?style=for-the-badge&logo=nvidia&logoColor=white" alt="NVIDIA NIM"/>
 </p>
 
-<h3 align="center">Work with me</h3>
+<h3 align="center">Work with us</h3>
 <p align="center">
-  <a href="https://www.upwork.com/freelancers/~01c08d9beea7868862"><img src="assets/upwork.svg" alt="Hire me on Upwork — Top Rated" height="64"/></a>
-</p>
-<p align="center">
-  <a href="https://www.instagram.com/morfe.sgv/"><img src="https://img.shields.io/badge/Instagram-@morfe.sgv-E5352B?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
-  <a href="https://github.com/morfemartin"><img src="https://img.shields.io/badge/GitHub-morfemartin-141518?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-  <img src="https://img.shields.io/badge/morfe.studio-coming%20soon-1A3FB0?style=for-the-badge" alt="morfe.studio — coming soon"/>
+  <a href="https://www.upwork.com/freelancers/~01c08d9beea7868862"><img src="assets/upwork.svg" alt="Hire us on Upwork — Top Rated" height="64"/></a>
+  <a href="https://www.instagram.com/morfe.sgv/"><img src="assets/instagram.svg" alt="Instagram — @morfe.sgv" height="64"/></a>
 </p>
 
 <br/>
 
 <p align="center">
-  <img src="assets/door.svg" alt="A door opens onto morfe.studio — coming soon" width="100%"/>
+  <img src="assets/door.svg" alt="An arched door opens onto morfe.studio — coming soon" width="100%"/>
+</p>
+
+<p align="center">
+  <img src="assets/seal.svg" alt="Morfe seal" width="100%"/>
 </p>

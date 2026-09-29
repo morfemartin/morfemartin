@@ -1,18 +1,18 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 320" width="860" height="320" role="img" aria-label="A door opens onto morfe.studio — coming soon">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 320" width="860" height="320" role="img" aria-label="An arched door opens onto morfe.studio — coming soon">
   <style>
     .t   { font-family: 'JetBrains Mono', 'SFMono-Regular', Menlo, Consolas, monospace; }
     .big { font-family: 'Space Grotesk', 'Helvetica Neue', Arial, sans-serif; font-weight: 700; letter-spacing: 2px; }
 
-    /* 8s loop: closed → opens → holds → closes */
+    /* 8s loop: knock → opens → holds → closes */
     .door {
       transform-box: fill-box;
       transform-origin: left center;
       animation: swing 8s cubic-bezier(.65,0,.35,1) infinite;
     }
     @keyframes swing {
-      0%, 12%   { transform: scaleX(1)    skewY(0deg); }
-      38%, 78%  { transform: scaleX(.14)  skewY(-9deg); }
-      96%, 100% { transform: scaleX(1)    skewY(0deg); }
+      0%, 12%   { transform: scaleX(1)   skewY(0deg); }
+      38%, 78%  { transform: scaleX(.14) skewY(-9deg); }
+      96%, 100% { transform: scaleX(1)   skewY(0deg); }
     }
 
     .light { animation: light 8s cubic-bezier(.65,0,.35,1) infinite; }
@@ -39,44 +39,31 @@
     }
   </style>
 
-  <!-- ground -->
   <rect width="860" height="320" fill="#141518"/>
   <line x1="0" y1="276" x2="860" y2="276" stroke="#2a2c33" stroke-width="1"/>
-  <g stroke="#1f2126" stroke-width="1">
-    <line x1="0"   y1="0" x2="0"   y2="276"/><line x1="86"  y1="0" x2="86"  y2="276"/>
-    <line x1="172" y1="0" x2="172" y2="276"/><line x1="258" y1="0" x2="258" y2="276"/>
-    <line x1="602" y1="0" x2="602" y2="276"/><line x1="688" y1="0" x2="688" y2="276"/>
-    <line x1="774" y1="0" x2="774" y2="276"/>
-  </g>
-
-  <!-- Bauhaus accents -->
-  <rect x="40"  y="40"  width="64" height="64" fill="#E5352B"/>
-  <circle cx="770" cy="92" r="34" fill="#1A3FB0"/>
-  <rect x="728" y="220" width="18" height="18" fill="#F5C518" stroke="#000" stroke-width="2"/>
-  <text x="40" y="236" class="t" font-size="11" fill="#6b6f7a">/ BRANDING · TEXTILE</text><text x="40" y="254" class="t" font-size="11" fill="#6b6f7a">/ TECH PACKS · WEB</text>
 
   <!-- light spilling onto the floor -->
   <polygon class="light" points="352,276 508,276 620,320 240,320" fill="#F5C518" opacity="0"/>
 
   <!-- doorway: what's behind the door -->
-  <rect x="350" y="56" width="160" height="220" fill="#F5C518"/>
+  <path d="M350 276 V136 A80 80 0 0 1 510 136 V276 Z" fill="#F5C518"/>
   <g class="reveal">
-    <text x="430" y="140" text-anchor="middle" class="big" font-size="22" fill="#141518">MORFE</text>
-    <text x="430" y="162" text-anchor="middle" class="big" font-size="13" fill="#141518">.STUDIO</text>
-    <rect x="378" y="182" width="104" height="22" fill="#141518"/>
-    <text x="430" y="197" text-anchor="middle" class="t" font-size="10" fill="#F5C518">COMING SOON<tspan class="blink">_</tspan></text>
+    <text x="430" y="150" text-anchor="middle" class="big" font-size="22" fill="#141518">MORFE</text>
+    <text x="430" y="172" text-anchor="middle" class="big" font-size="13" fill="#141518">.STUDIO</text>
+    <rect x="378" y="192" width="104" height="22" fill="#141518"/>
+    <text x="430" y="207" text-anchor="middle" class="t" font-size="10" fill="#F5C518">COMING SOON<tspan class="blink">_</tspan></text>
   </g>
 
   <!-- the door (hinged on the left) -->
   <g class="door">
-    <rect x="350" y="56" width="160" height="220" fill="#1A3FB0"/>
-    <rect x="368" y="76"  width="124" height="80" fill="none" stroke="#FFFFFF" stroke-opacity=".35" stroke-width="2"/>
-    <rect x="368" y="172" width="124" height="86" fill="none" stroke="#FFFFFF" stroke-opacity=".35" stroke-width="2"/>
-    <circle class="knock" cx="490" cy="170" r="7" fill="#E5352B"/>
+    <path d="M350 276 V136 A80 80 0 0 1 510 136 V276 Z" fill="#1A3FB0"/>
+    <path d="M368 160 V140 A62 62 0 0 1 492 140 V160 Z" fill="none" stroke="#FFFFFF" stroke-opacity=".35" stroke-width="2"/>
+    <rect x="368" y="176" width="124" height="82" fill="none" stroke="#FFFFFF" stroke-opacity=".35" stroke-width="2"/>
+    <circle class="knock" cx="490" cy="168" r="7" fill="#E5352B"/>
   </g>
 
   <!-- frame -->
-  <rect x="342" y="48" width="176" height="228" fill="none" stroke="#FFFFFF" stroke-width="4"/>
+  <path d="M342 276 V136 A88 88 0 0 1 518 136 V276" fill="none" stroke="#FFFFFF" stroke-width="4"/>
   <rect x="330" y="276" width="200" height="6" fill="#FFFFFF"/>
-  <text x="430" y="36" text-anchor="middle" class="t" font-size="11" fill="#9aa0ab">knock knock →</text>
+  <text x="430" y="30" text-anchor="middle" class="t" font-size="11" fill="#9aa0ab">knock knock →</text>
 </svg>
