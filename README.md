@@ -26,11 +26,11 @@ I work for **international clients** across the **United States**, **Canada**, t
 - **Open to** full-time roles and collaborations where design and engineering overlap: creative tooling, design systems, fashion tech.
 
 <p align="center">
-  <img src="assets/education.svg" alt="Computer Engineering — Universidad Valle del Momboy. Harvard CS50 in progress." width="100%"/>
+  <img src="assets/edu.svg" alt="Computer Engineering — Universidad Valle del Momboy. Harvard CS50 in progress." width="100%"/>
 </p>
 
 <p align="center">
-  <img src="assets/certifications.svg" alt="Certifications — CalArts Graphic Design, Google Project Management, Anthropic, Oracle Next Education Full Stack, Harvard CS50 (in progress)" width="100%"/>
+  <img src="assets/certs.svg" alt="Certifications — CalArts Graphic Design, Google Project Management, Anthropic, Oracle Next Education Full Stack, Harvard CS50 (in progress)" width="100%"/>
 </p>
 
 <h3 align="center">Languages</h3>
@@ -85,5 +85,5 @@ I work for **international clients** across the **United States**, **Canada**, t
 <br/>
 
 <p align="center">
-  <img src="assets/door-seal.svg" alt="A door cut in the shape of the Morfe seal swings open onto morfe.studio — coming soon" width="400"/>
+  <img src="assets/door-arch.svg" alt="A blue arched door with the Morfe seal engraved through it swings open onto morfe.studio — coming soon" width="320"/>
 </p>
