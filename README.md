@@ -1,5 +1,8 @@
 <p align="center">
-  <img src="assets/hero.svg" alt="MORFE — Martin Alejandro Morfe Carballo, visual artist × computer engineer" width="460"/>
+  <picture>
+    <source media="(max-width: 700px)" srcset="https://raw.githubusercontent.com/morfemartin/morfemartin/main/assets/hero.svg"/>
+    <img src="assets/hero-wide.svg" alt="MORFE — Martin Alejandro Morfe Carballo, visual artist × computer engineer" width="100%"/>
+  </picture>
 </p>
 
 ## Hi, I'm Martin Alejandro Morfe Carballo
