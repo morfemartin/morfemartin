@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/hero.svg" alt="MORFE — Martin Alejandro Morfe Carballo, visual artist × computer engineer" width="100%"/>
+  <img src="assets/hero.svg" alt="MORFE — Martin Alejandro Morfe Carballo, visual artist × computer engineer" width="600"/>
 </p>
 
 ## Hi, I'm Martin Alejandro Morfe Carballo
@@ -11,7 +11,7 @@ I paint traditionally — watercolor, acrylic, pencil — and I study **Computer
 I work for **international clients** across the **United States**, **Canada**, the **United Kingdom** and **Singapore** — from [Hueston](https://hueston.co) and [HoliMont](https://www.holimont.com) in the US to [Minerva Society Introductions](https://www.minervaintroductions.com) in London and [IAMWATCH](https://www.iamwatch.com) in Singapore — plus fashion labels in **Hawaii** such as [Sunner.co](https://sunner.co).
 
 <p align="center">
-  <img src="assets/clients-grid.svg" alt="International clients — US (New York): Hueston, HoliMont · Canada · UK: Minerva Society Introductions · Singapore: IAMWATCH · Hawaii: Sunner.co" width="100%"/>
+  <img src="assets/clients-grid.svg" alt="International clients — US (New York): Hueston, HoliMont · Canada · UK: Minerva Society Introductions · Singapore: IAMWATCH · Hawaii: Sunner.co" width="600"/>
 </p>
 
 ### What I'm doing now
@@ -22,11 +22,11 @@ I work for **international clients** across the **United States**, **Canada**, t
 - **Open to** full-time roles and collaborations where design and engineering overlap: creative tooling, design systems, fashion tech.
 
 <p align="center">
-  <img src="assets/edu.svg" alt="Computer Engineering — Universidad Valle del Momboy. Harvard CS50 in progress." width="100%"/>
+  <a href="https://uvm.edu.ve"><img src="assets/edu-uvm.svg" alt="Computer Engineering — Universidad Valle del Momboy. Harvard CS50 in progress." width="600"/></a>
 </p>
 
 <p align="center">
-  <img src="assets/certs.svg" alt="Certifications — CalArts Graphic Design, Google Project Management, Anthropic, Oracle Next Education Full Stack, Harvard CS50 (in progress)" width="100%"/>
+  <img src="assets/certs.svg" alt="Certifications — CalArts Graphic Design, Google Project Management, Anthropic, Oracle Next Education Full Stack, Harvard CS50 (in progress)" width="600"/>
 </p>
 
 <h3 align="center">Languages</h3>
@@ -81,5 +81,5 @@ I work for **international clients** across the **United States**, **Canada**, t
 <br/>
 
 <p align="center">
-  <img src="assets/door-cast.svg" alt="A blue arched door with the Morfe seal engraved through it; light casts the letters on the floor, then the door opens onto morfe.studio — coming soon" width="320"/>
+  <img src="assets/door-glow.svg" alt="A blue arched door with the Morfe seal engraved through it; light casts the letters on the floor, then the door opens onto morfe.studio — coming soon" width="320"/>
 </p>
