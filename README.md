@@ -22,7 +22,7 @@ I work for **international clients** across the **United States**, **Canada**, t
 - **Open to** full-time roles and collaborations where design and engineering overlap: creative tooling, design systems, fashion tech.
 
 <p align="center">
-  <a href="https://uvm.edu.ve"><img src="assets/edu-uvm.svg" alt="Computer Engineering — Universidad Valle del Momboy. Harvard CS50 in progress." width="600"/></a>
+  <a href="https://uvm.edu.ve"><img src="assets/edu-logos.svg" alt="Computer Engineering — Universidad Valle del Momboy. Harvard CS50 in progress." width="600"/></a>
 </p>
 
 <p align="center">
