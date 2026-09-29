@@ -11,8 +11,7 @@ I paint traditionally — watercolor, acrylic, pencil — and I study **Computer
 I work for **international clients** across the **United States**, **Canada**, the **United Kingdom** and **Singapore** — from [Hueston](https://hueston.co) and [HoliMont](https://www.holimont.com) in the US to [Minerva Society Introductions](https://www.minervaintroductions.com) in London and [IAMWATCH](https://www.iamwatch.com) in Singapore — plus fashion labels in **Hawaii** such as [Sunner.co](https://sunner.co).
 
 <p align="center">
-  <a href="https://hueston.co"><img src="assets/client-us-hueston.svg" alt="United States — Hueston" width="32%"/></a>
-  <a href="https://www.holimont.com"><img src="assets/client-us-holimont.svg" alt="United States — HoliMont" width="32%"/></a>
+  <a href="https://hueston.co"><img src="assets/client-us-hueston.svg" alt="United States, New York — Hueston" width="32%"/></a><a href="https://www.holimont.com"><img src="assets/client-us-holimont.svg" alt="United States, New York — HoliMont" width="32%"/></a>
   <img src="assets/client-ca.svg" alt="Canada — private clients" width="32%"/>
   <a href="https://www.minervaintroductions.com"><img src="assets/client-uk.svg" alt="United Kingdom — Minerva Society Introductions" width="32%"/></a>
   <a href="https://www.iamwatch.com"><img src="assets/client-sg.svg" alt="Singapore — IAMWATCH" width="32%"/></a>
@@ -86,9 +85,5 @@ I work for **international clients** across the **United States**, **Canada**, t
 <br/>
 
 <p align="center">
-  <img src="assets/door.svg" alt="The Morfe seal swings open like a door onto morfe.studio — coming soon" width="100%"/>
-</p>
-
-<p align="center">
-  <img src="assets/seal.svg" alt="Morfe seal" width="100%"/>
+  <img src="assets/door.svg" alt="A door cut in the shape of the Morfe seal swings open onto morfe.studio — coming soon" width="400"/>
 </p>
