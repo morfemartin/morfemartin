@@ -77,7 +77,7 @@ I work for **international clients** across the **United States**, **Canada**, t
 
 <h3 align="center">Work with us</h3>
 <p align="center">
-  <a href="https://www.upwork.com/freelancers/~01c08d9beea7868862"><img src="assets/upwork.svg" alt="Hire us on Upwork — Top Rated" height="64"/></a>
+  <a href="https://www.upwork.com/agencies/2049134329997668985/"><img src="assets/upwork.svg" alt="Hire us on Upwork — Top Rated" height="64"/></a>
   <a href="https://www.instagram.com/morfe.sgv/"><img src="assets/instagram.svg" alt="Instagram — @morfe.sgv" height="64"/></a>
 </p>
 
